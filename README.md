@@ -1,5 +1,7 @@
 # Python Data Science Examples
 
+Big Data Project - NYC Dining Safety Prediction: https://www.youtube.com/watch?v=2APF_ggph58
+
 This repository contains Python code examples for various data science tasks. The repository consists of the following files:
 
 ## 1. Customer Targeting Strategy
